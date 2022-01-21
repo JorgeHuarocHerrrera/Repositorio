@@ -9,4 +9,8 @@ int main(int argc, char *argv[]) {
 	cout<<"4. DIVIDIR";
 	cout<<"5. SALIR";
 	return 0;
+	
+	cout<<"multipiblar;
+		cout<<"dividir;
+		cout<<
 }
